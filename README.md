@@ -11,11 +11,15 @@ It is a game memory skil. The game creates a series of tones and lights and requ
 
 
 
-Features
- HTML
- CSS
- Javascript
- Bootstrap
+#Features
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Bootstrap</li>
+</ul>
+
+
 
 Requirements
 HTML
