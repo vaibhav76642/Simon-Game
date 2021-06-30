@@ -20,20 +20,26 @@ It is a game memory skil. The game creates a series of tones and lights and requ
 </ul>
 
 
+<h1>Requirements</h1>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Bootstrap</li>
+</ul>
 
-Requirements
-HTML
-CSS
-Javascript
-Bootstrap
 
-Technical Information
-To run the site on your local machine
+<h1>Technical Information</h1>
+<p>To run the site on your local machine</p>
+<ol>
+  <li>Download or clone the repository onto your machine.</li>
+  <li>Extract the .zip file.</li>
+  <li>Open .html file in your browser.</li>
+  <li>Bootstrap</li>
+</ol>
 
-Download or clone the repository onto your machine.
-Extract the .zip file.
-Open .html file in your browser.
-Alternatively you can click on the following Site Link to view.
+
+<!-- Alternatively you can click on the following Site Link to view. -->
 
 
 
