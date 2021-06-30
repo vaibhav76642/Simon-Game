@@ -2,4 +2,4 @@
 
 
 
-![Finished App](demo/simon_giff)
+![Finished App](demo/simon_giff.gif)
