@@ -11,18 +11,25 @@ It is a game memory skil. The game creates a series of tones and lights and requ
 
 
 
-## What I have learnt from this project
+Features
+ HTML
+ CSS
+ Javascript
+ Bootstrap
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+Requirements
+HTML
+CSS
+Javascript
+Bootstrap
+
+Technical Information
+To run the site on your local machine
+
+Download or clone the repository onto your machine.
+Extract the .zip file.
+Open .html file in your browser.
+Alternatively you can click on the following Site Link to view.
 
 
 
