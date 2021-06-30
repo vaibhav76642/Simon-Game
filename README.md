@@ -11,7 +11,7 @@ It is a game memory skil. The game creates a series of tones and lights and requ
 
 
 
-#Features
+<h1>Features</h1>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
